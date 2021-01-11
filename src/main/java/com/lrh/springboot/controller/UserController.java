@@ -10,7 +10,7 @@ public class UserController {
 
     @GetMapping("/id")
     public String test(){
-        return "springboot test cicd,haha,hey.";
+        return "springboot test cicd,haha,hey..";
     }
 
 }
